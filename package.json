@@ -1,0 +1,19 @@
+{
+  "name": "git-application",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devendirankan/git-application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devendirankan/git-application/issues"
+  },
+  "homepage": "https://github.com/devendirankan/git-application#readme",
+  "description": ""
+}
